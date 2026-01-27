@@ -1,0 +1,28 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.notes-form{
+  display: flex;
+  flex-direction: column;
+  gap: 5px
+}
+.card-component{
+    border: 1px ;
+    background: rgb(210, 235, 232);
+    width:150px;
+     border-radius: 2px;
+    height:150px
+}
+.main-container{
+     display: flex;
+    gap: 20px;
+}
+.card-details{
+  display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
